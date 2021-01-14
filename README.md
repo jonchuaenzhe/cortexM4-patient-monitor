@@ -11,3 +11,6 @@ Gyroscope - To simulate patient's movement; specifically to sense the patient's 
 
 The data collected from the sensors are sent to a Blynk.io server, and then displayed on a phone application:
 
+Mobile Dashboard:
+
+![Dashboard](Mobile Dashboard.png)
