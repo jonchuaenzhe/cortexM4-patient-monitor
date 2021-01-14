@@ -13,4 +13,4 @@ The data collected from the sensors are sent to a Blynk.io server, and then disp
 
 Mobile Dashboard:
 
-![Dashboard](Mobile Dashboard.png)
+![Dashboard](Mobile_Dashboard.png)
