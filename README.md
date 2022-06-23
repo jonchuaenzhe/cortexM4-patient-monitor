@@ -11,8 +11,8 @@ The sensors used are:
 
 ### what does 3 hash look like?
 
-Accelerometer - To simulate the posture of the patient, specifically for fall detection.
-Magnetometer - To simulate the orientation of the patient lying on the bed. Proper orientation is important in ensuring that other monitoring / life-saving equipment remains connected properly.
+1. Accelerometer - To simulate the posture of the patient, specifically for fall detection.
+2. Magnetometer - To simulate the orientation of the patient lying on the bed. Proper orientation is important in ensuring that other monitoring / life-saving equipment remains connected properly.
 Pressure Sensor - To simulate the pressure of air in the patient's lungs.
 Temperature Sensor - To simulate body temperature.
 Humidity Sensor - To simulate the relative humidity of the air passed into the patient's lungs.
