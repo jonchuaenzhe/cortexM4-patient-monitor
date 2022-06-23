@@ -5,6 +5,8 @@ As part of the NUS module EE2028 Microcontroller Programming and Interfacing, th
 
 ![Dashboard](Mobile_Dashboard.png)
 
+The STM32L4 kit was used for this implementation. All code is detailed in main.c, additional libraries are standard STM32 libraries.
+
 ## Data Measured
 
 The sensors used are:
