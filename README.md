@@ -1,7 +1,16 @@
-# arm_iot_device
-code implementation for an ARM Cortex M4 microcontroller (STM32) to simulate an IoT medical device.
+September 2020
+# ARM-Based IoT-Enabled Patient Monitor
+
+As part of the NUS module EE2028 Microcontroller Programming and Interfacing, this project uses the ARM Cortex M4 chip to design an IoT-Enabled Patient Monitor meant for use in hospitals to remotely monitor critical patients. Real-time data is streamed to a mobile dashboard called "COPEMON".
+
+![Dashboard](Mobile_Dashboard.png)
+
+## Data Measured
 
 The sensors used are:
+
+### what does 3 hash look like?
+
 Accelerometer - To simulate the posture of the patient, specifically for fall detection.
 Magnetometer - To simulate the orientation of the patient lying on the bed. Proper orientation is important in ensuring that other monitoring / life-saving equipment remains connected properly.
 Pressure Sensor - To simulate the pressure of air in the patient's lungs.
